@@ -61,7 +61,7 @@ require (
 	github.com/spf13/cobra v1.10.2
 	github.com/spf13/pflag v1.0.10
 	github.com/stretchr/testify v1.12.0
-	github.com/vbauerster/mpb/v8 v8.15.2
+	github.com/vbauerster/mpb/v8 v8.16.0
 	github.com/vishvananda/netlink v1.3.1
 	go.etcd.io/bbolt v1.5.0
 	go.podman.io/buildah v1.45.0
@@ -134,7 +134,7 @@ require (
 	github.com/kr/fs v0.1.0 // indirect
 	github.com/lufia/plan9stats v0.0.0-20240909124753-873cd0166683 // indirect
 	github.com/manifoldco/promptui v0.9.0 // indirect
-	github.com/mattn/go-runewidth v0.0.27 // indirect
+	github.com/mattn/go-runewidth v0.0.28 // indirect
 	github.com/mdlayher/socket v0.6.0 // indirect
 	github.com/miekg/pkcs11 v1.1.2 // indirect
 	github.com/mistifyio/go-zfs/v4 v4.0.0 // indirect
